@@ -2,7 +2,10 @@
 
 # LLM Prompting Process & Examples
 
-As part of this research task, I challenged ChatGPT (a Large Language Model) to answer natural language questions about the SU Women’s Lacrosse dataset using only small table snippets. The results were tracked for accuracy, clarity, and any required prompt engineering.
+**Note:**  
+All prompts, analysis, and visualizations in this project use **Syracuse University Women’s Lacrosse data from the 2024 and 2025 seasons**.
+
+As part of this research task, I challenged ChatGPT (a Large Language Model) to answer natural language questions about the SU Women’s Lacrosse dataset using only small table snippets from these two seasons. The results were tracked for accuracy, clarity, and any required prompt engineering.
 
 ---
 
@@ -100,7 +103,8 @@ Correct, logical answer.
 
 ## Prompt Engineering Insights
 
-- **Simple tabular prompts led to correct answers.**
+- **All questions and analysis were based strictly on 2024 and 2025 season data.**
+- Simple tabular prompts led to correct answers.
 - For reasoning questions, providing summary stats or clarifying what to compare led to detailed and accurate responses.
 - When asked open-ended questions, the LLM sometimes needed clarification on what metric to use, especially for “most improved player” or similar queries.
 
@@ -108,7 +112,6 @@ Correct, logical answer.
 
 ## Conclusion
 
-When given clear, relevant data in a small table, ChatGPT answered all six research questions about the SU Women’s Lacrosse season accurately and logically, requiring little to no additional prompt engineering.
+When given clear, relevant data in a small table from the 2024 and 2025 seasons, ChatGPT answered all six research questions about the SU Women’s Lacrosse season accurately and logically, requiring little to no additional prompt engineering.
 
 ---
-
